@@ -1,6 +1,6 @@
 {
   "name": "react-native-awesome-module-jarrod-poc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "pocing if this works",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
